@@ -1,5 +1,5 @@
 // Your code here
-const url = 'https://flatdango.herokuapp.com/'
+const url = 'https://flatdango.herokuapp.com/films/'
 const filmList = document.getElementById('films')
 const filmInfo = document.getElementById('showing')
 let data = ''
